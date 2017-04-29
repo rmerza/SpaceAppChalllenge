@@ -1,0 +1,12 @@
+c:\users\kamri\documents\visual studio 2013\Projects\SpaceApp\SpaceApp\bin\SpaceApp.dll.config
+c:\users\kamri\documents\visual studio 2013\Projects\SpaceApp\SpaceApp\bin\SpaceApp.dll
+c:\users\kamri\documents\visual studio 2013\Projects\SpaceApp\SpaceApp\bin\SpaceApp.pdb
+c:\users\kamri\documents\visual studio 2013\Projects\SpaceApp\SpaceApp\obj\Debug\SpaceApp.csprojResolveAssemblyReference.cache
+c:\users\kamri\documents\visual studio 2013\Projects\SpaceApp\SpaceApp\obj\Debug\SpaceApp.dll
+c:\users\kamri\documents\visual studio 2013\Projects\SpaceApp\SpaceApp\obj\Debug\SpaceApp.pdb
+C:\Users\kamri\Documents\Projects\SpaceApp\SpaceApp\SpaceApp\bin\SpaceApp.dll.config
+C:\Users\kamri\Documents\Projects\SpaceApp\SpaceApp\SpaceApp\bin\SpaceApp.dll
+C:\Users\kamri\Documents\Projects\SpaceApp\SpaceApp\SpaceApp\bin\SpaceApp.pdb
+C:\Users\kamri\Documents\Projects\SpaceApp\SpaceApp\SpaceApp\obj\Debug\SpaceApp.dll
+C:\Users\kamri\Documents\Projects\SpaceApp\SpaceApp\SpaceApp\obj\Debug\SpaceApp.pdb
+C:\Users\kamri\Documents\Projects\SpaceApp\SpaceApp\SpaceApp\obj\Debug\SpaceApp.csprojResolveAssemblyReference.cache
